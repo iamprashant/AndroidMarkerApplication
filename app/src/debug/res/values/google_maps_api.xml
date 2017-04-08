@@ -1,0 +1,20 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D2:1A:6E:8F:09:48:25:5E:57:9A:79:18:D7:8A:3F:E9:E4:87:E7:1C%3Bin.goldfarm.farmapp
+
+    You can also add your credentials to an existing key, using this line:
+    D2:1A:6E:8F:09:48:25:5E:57:9A:79:18:D7:8A:3F:E9:E4:87:E7:1C;in.goldfarm.farmapp
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBmNk18ian1DmGQJZxIfMiV0qcGxf3qOX4</string>
+    <string name="http_api_key">AIzaSyA7dIi4HGpGlyEx01UCxTDcnhjgMI3Z2g8</string>
+</resources>
